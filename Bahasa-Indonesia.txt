@@ -20,6 +20,9 @@ kabar baik
 How about you?
 kabarmu?	//Formal: Bagaimana dengan anda?
 
+Hopefully in good condition.
+Semoga dalam keadaan baik.
+
 Thank You
 Terima kasih
 makasih (informal)
@@ -87,6 +90,9 @@ selamat jalan
 see you later
 sampai jumpa
 
+see you later, (as well)	//when someone says sampai jumpa to you
+sampai jumpa lagi
+
 see you tomorrow
 sampai jumpa besok
 
@@ -153,7 +159,7 @@ pa kamu bisa gabung di g+ jam in X min?
 Remarkable / Extraordinary
 larr biasa
 
-Chapmion / Champ
+Champion / Champ
 Juara
 
 Monday		Senin
