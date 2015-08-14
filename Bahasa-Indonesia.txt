@@ -63,7 +63,7 @@ sangat
 naked
 bugil
 
-silakan
+silahkan
 please
 
 What did you have for lunch?
@@ -145,7 +145,7 @@ Good luck
 Semoga anda beruntung!
 
 I need a holiday
-butuh libur
+saya butuh libur
 
 Congratulations on passing the exam!
 Selamat! anda lulus dengan baik!
@@ -160,7 +160,7 @@ Can you join G+ hangout in X min?
 pa kamu bisa gabung di g+ jam in X min?
 
 Remarkable / Extraordinary
-larr biasa
+luar biasa
 
 Champion / Champ
 Juara
@@ -184,8 +184,8 @@ selamat hari raya
 Swear Words
 ===========
 
-idiot (literally a bed bug)
-bangsat 
+idiot (literally a bed bug) 
+bego / bodoh
 
 damn / fuck - but less harsh (literally a fruit bat)
 kampret
@@ -194,4 +194,7 @@ kampret
 jancuk
 
 dammit
-keparat
+keparat / bangsat
+
+loser
+payah / pecundang
