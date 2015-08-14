@@ -2,6 +2,9 @@
 Good Morning
 Selamat Pagi
 
+Good Morning
+Selamat Pagi juga	//When someone says selamat pagi to you. You can reply with Juga
+
 Hello
 Halo
 
@@ -37,7 +40,7 @@ What are you working on?
 Apa yang Anda kerjakan?
 
 Can we do a quick standup?
-bisakah kita standup cepat?
+bisakah kita standup cepat?	// reply: bisa
 
 Plenty of sleep
 banyak tidur 
@@ -90,7 +93,7 @@ selamat jalan
 see you later
 sampai jumpa
 
-see you later, (as well)	//when someone says sampai jumpa to you
+see you later, (as well)	//when someone says sampai jumpa to you you reply with Lagi. (not Juga)
 sampai jumpa lagi
 
 see you tomorrow
@@ -174,4 +177,19 @@ Weekend 	Akhir pekan
 Happy Friday
 Selamat hari jumat
 
+Happy Holidays
+selamat hari raya
+
+
+Swear Words
+===========
+
+idiot (literally a bed bug)
+bangsat 
+
+damn / fuck - but less harsh (literally a fruit bat)
+kampret
+
+@#$% Harsh swear word. -- use with care
+jancuk
 
