@@ -193,3 +193,5 @@ kampret
 @#$% Harsh swear word. -- use with care
 jancuk
 
+dammit
+keparat
