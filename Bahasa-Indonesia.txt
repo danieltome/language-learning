@@ -14,6 +14,9 @@ bagaimana akhir pekanmu?
 good
 bagus / baik
 
+excellent
+baik sekali
+
 How are you?
 apa kabar?
 
@@ -30,8 +33,14 @@ Thank You
 Terima kasih
 makasih (informal)
 
+Your welcome
+Sama-Sama	//Or sama2
+
 Yes
 Ya
+
+baiklah
+alright / ok
 
 No
 tidak
@@ -198,3 +207,9 @@ keparat / bangsat
 
 loser
 payah / pecundang
+
+===============
+
+Not too bad
+Lumayan
+
