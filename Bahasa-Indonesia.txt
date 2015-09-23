@@ -17,6 +17,9 @@ bagus / baik
 excellent
 baik sekali
 
+Not too bad
+Lumayan
+
 How are you?
 apa kabar?
 
@@ -168,6 +171,12 @@ kamu bisa tolong booking X untuk projek Y?
 Can you join G+ hangout in X min?
 pa kamu bisa gabung di g+ jam in X min?
 
+Is he/she there?
+Apa dia ada disana?
+
+Is he/she in the office today?
+Apa dia ada di kantor hari ini?
+
 Remarkable / Extraordinary
 luar biasa
 
@@ -189,6 +198,12 @@ Selamat hari jumat
 Happy Holidays
 selamat hari raya
 
+Cool mate!
+Mantap coy!
+
+My code fail, I dont know why. My code works, I also dont know why
+Kode saya gagal, saya tidak tahu kenapa. Kode saya berhasil, juga saya tidak tahu kenapa
+
 
 Swear Words
 ===========
@@ -208,8 +223,9 @@ keparat / bangsat
 loser
 payah / pecundang
 
-===============
+bastard
+bajingan
 
-Not too bad
-Lumayan
+shit
+tai
 
