@@ -1,4 +1,7 @@
 
+Greetings
+=========
+
 Good Morning
 Selamat Pagi
 
@@ -10,6 +13,12 @@ Halo
 
 How was your weekend?
 bagaimana akhir pekanmu?
+
+have a good weekend
+memiliki akhir pekan yang baik
+
+I hope you had a good/fun weekend
+kuharap akhir pekanmu menyenangkan
 
 good
 bagus / baik
@@ -32,12 +41,30 @@ kabarmu?	//Formal: Bagaimana dengan anda?
 Hopefully in good condition.
 Semoga dalam keadaan baik.
 
-Thank You
-Terima kasih
-makasih (informal)
+goodbye
+selamat jalan
 
-Your welcome
-Sama-Sama	//Or sama2
+see you later
+sampai jumpa
+
+see you later, (as well)	//when someone says sampai jumpa to you you reply with Lagi. (not Juga)
+sampai jumpa lagi
+
+see you tomorrow
+sampai jumpa besok
+
+Happy Friday
+Selamat hari jumat
+
+Happy Holidays
+selamat hari raya
+
+Happy birthday
+selamat ulang tahun
+
+
+Common
+======
 
 Yes
 Ya
@@ -48,38 +75,67 @@ alright / ok
 No
 tidak
 
-What are you working on?
-Apa yang Anda kerjakan?
+Thank You
+Terima kasih
+makasih (informal)
 
-Can we do a quick standup?
-bisakah kita standup cepat?	// reply: bisa
+Your welcome
+Sama-Sama	//Or sama2
+
 
 Plenty of sleep
 banyak tidur 
 
 TGIF (thank god it is friday)
-terima kasih Tuhan itu Jumat
-
-Showcase
-menampilkan
-
-Awesome!
-Debes!	//formal: mengagumkan
-
-have a good weekend
-memiliki akhir pekan yang baik
+terima kasih Tuhan itu jumat
+;this is not really used. It is a literal translation and you will be laughed at.
 
 very
 sangat
-
-naked
-bugil
 
 silahkan
 please
 
 What did you have for lunch?
 tadi kamu makan apa?
+
+Good luck
+Semoga anda beruntung!
+
+I need a holiday
+saya butuh libur
+
+friend
+teman 
+
+Cool mate!
+Mantap coy!
+
+
+
+Work related
+============
+
+Congratulations on passing the exam!
+Selamat! anda lulus dengan baik!
+
+Can you book X on project Y
+kamu bisa tolong booking X untuk projek Y?
+
+Can you join G+ hangout in X min?
+pa kamu bisa gabung di g+ jam in X min?
+
+What are you working on?
+Apa yang Anda kerjakan?
+
+Can we do a quick standup?
+bisakah kita standup cepat?	// reply: bisa
+
+Showcase
+menampilkan
+
+Awesome!
+Debes!	//formal: mengagumkan
 
 How much progress have you made on XXX project?
 berapa persen selesai di project XXX
@@ -99,26 +155,17 @@ Anda hebat.
 I noted
 saya catat
 
-goodbye
-selamat jalan
-
-see you later
-sampai jumpa
-
-see you later, (as well)	//when someone says sampai jumpa to you you reply with Lagi. (not Juga)
-sampai jumpa lagi
-
-see you tomorrow
-sampai jumpa besok
-
 guys
 kawan-kawan or kawan2
 
-friend
-teman 
+Remarkable / Extraordinary
+luar biasa
 
-I hope you had a good/fun weekend
-kuharap akhir pekanmu menyenangkan
+Champion / Champ
+Juara
+
+My code fail, I dont know why. My code works, I also dont know why
+Kode saya gagal, saya tidak tahu kenapa. Kode saya berhasil, juga saya tidak tahu kenapa
 
 Very nice
 sangat menyenangkan
@@ -131,6 +178,9 @@ cepat
 
 slow
 lemot
+
+Learning phrases
+================
 
 The Apple is red
 Apel itu merah
@@ -150,26 +200,7 @@ Dia memberikannya kepada John
 She gives it to him
 Dia memberikannya kepada John
 
-;the last 2 is the same, he/she = dia
-
-
-Good luck
-Semoga anda beruntung!
-
-I need a holiday
-saya butuh libur
-
-Congratulations on passing the exam!
-Selamat! anda lulus dengan baik!
-
-Happy birthday
-selamat ulang tahun
-
-Can you book X on project Y
-kamu bisa tolong booking X untuk projek Y?
-
-Can you join G+ hangout in X min?
-pa kamu bisa gabung di g+ jam in X min?
+;the last 2 are the same, he/she = dia
 
 Is he/she there?
 Apa dia ada disana?
@@ -177,11 +208,8 @@ Apa dia ada disana?
 Is he/she in the office today?
 Apa dia ada di kantor hari ini?
 
-Remarkable / Extraordinary
-luar biasa
-
-Champion / Champ
-Juara
+Days
+====
 
 Monday		Senin
 Tuesday		Selasa
@@ -191,18 +219,6 @@ friday		Jumat
 Saturday	Sabtu
 Sunday		Minggu
 Weekend 	Akhir pekan
-
-Happy Friday
-Selamat hari jumat
-
-Happy Holidays
-selamat hari raya
-
-Cool mate!
-Mantap coy!
-
-My code fail, I dont know why. My code works, I also dont know why
-Kode saya gagal, saya tidak tahu kenapa. Kode saya berhasil, juga saya tidak tahu kenapa
 
 
 Swear Words
