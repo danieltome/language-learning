@@ -53,11 +53,14 @@ sampai jumpa lagi
 see you tomorrow
 sampai jumpa besok
 
-Happy Friday
+Happy friday 				//not really used.
 Selamat hari jumat
 
-Happy Holidays
+Happy Holidays 				//For celebrating something. Usually religion related
 selamat hari raya
+
+Happy vacation				//For a regular non-working day.
+selamat berlibur
 
 Happy birthday
 selamat ulang tahun
@@ -136,6 +139,9 @@ menampilkan
 
 Awesome!
 Debes!	//formal: mengagumkan
+
+Cool
+Mantap	//literally means: steady (slang use: the best)
 
 How much progress have you made on XXX project?
 berapa persen selesai di project XXX
