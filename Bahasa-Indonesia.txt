@@ -5,8 +5,11 @@ Greetings
 Good Morning
 Selamat Pagi
 
-Good Morning
+Good Morning to you too
 Selamat Pagi juga	//When someone says selamat pagi to you. You can reply with Juga
+
+Good afternoon
+Selamat sore
 
 Hello
 Halo
