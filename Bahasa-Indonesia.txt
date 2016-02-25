@@ -44,6 +44,9 @@ kabarmu?	//Formal: Bagaimana dengan anda?
 Hopefully in good condition.
 Semoga dalam keadaan baik.
 
+Hopefully
+Semoga		//In reply to...
+
 goodbye
 selamat jalan
 
@@ -187,6 +190,9 @@ cepat
 
 slow
 lemot
+
+done already
+Sudah
 
 Learning phrases
 ================
