@@ -91,7 +91,6 @@ makasih (informal)
 Your welcome
 Sama-Sama	//Or sama2
 
-
 Plenty of sleep
 banyak tidur 
 
@@ -193,6 +192,9 @@ lemot
 
 done already
 Sudah
+
+Yes you can 	//When someone asks: Can I do X?. Boleh. Yes you can.
+Boleh
 
 Learning phrases
 ================
