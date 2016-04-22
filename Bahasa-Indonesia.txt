@@ -191,13 +191,18 @@ quick
 cepat
 
 slow
-lemot
+lambat (formal)
+lemot (slang)
 
 done already
 Sudah
 
 Yes you can 	//When someone asks: Can I do X?. Boleh. Yes you can.
 Boleh
+
+sick (as in ill)
+sakit
+
 
 Learning phrases
 ================
@@ -212,7 +217,7 @@ I give John the apple
 Saya memberikan apel kepada John
 
 We want to give him the apple
-Kita ingin memberikan apek padanya
+Kita ingin memberikan apel padanya
 
 He gives it to John
 Dia memberikannya kepada John
@@ -241,13 +246,28 @@ Sunday		Minggu
 Weekend 	Akhir pekan
 
 
+Directions
+==========
+left
+kiri
+
+right 
+kanan
+
+straight forward
+maju
+
+backward
+mundur
+
+
 Swear Words
 ===========
 
 idiot (literally a bed bug) 
 bego / bodoh
 
-damn / fuck - but less harsh (literally a fruit bat)
+damn / fuck - but less harsh (literally a fruit bat) (slang)
 kampret
 
 @#$% Harsh swear word. -- use with care
