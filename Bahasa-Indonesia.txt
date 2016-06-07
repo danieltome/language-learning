@@ -65,6 +65,9 @@ Selamat hari jumat
 Happy Holidays 				//For celebrating something. Usually religion related
 selamat hari raya
 
+Happy fasting
+Selamat puasa				//For ramadan
+
 Happy vacation				//For a regular non-working day.
 selamat berlibur
 
@@ -162,6 +165,19 @@ apakah kamu ada kesulitan?
 
 Can you finish it today? 
 bisakah kamu selesaikan hari ini?
+
+Have you replied my email? 
+Kamu sudah balas emailku?
+
+What is ur estimation to fix this ticket/bug? 
+Brp jam untuk tiket/bug ini?
+
+Can I ask you a question?
+boleh tanya sedikit?
+
+We are nearly there / Just a little bit more
+dikit lagi 				//dikit = abreviated sedikit
+Kita hampir selesa 		//formal
 
 You're great.
 Anda hebat.
