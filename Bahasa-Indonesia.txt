@@ -68,6 +68,9 @@ selamat hari raya
 Happy fasting
 Selamat puasa				//For ramadan
 
+Happy Eid-ul-Fitr
+Selamat Hari Raya Puasa 	//You can say this greeting on the three days of Eid
+
 Happy vacation				//For a regular non-working day.
 selamat berlibur
 
@@ -90,6 +93,10 @@ tidak
 Thank You
 Terima kasih
 makasih (informal)
+
+Back at you  		  //replying to someone if they say eg: makasih
+kembali
+Terima kasih kembali  //You're welcome
 
 Your welcome
 Sama-Sama	//Or sama2
@@ -132,6 +139,9 @@ Work related
 
 Congratulations on passing the exam!
 Selamat! anda lulus dengan baik!
+
+Welcome to the team	//Or congratulations on joining the team
+Selamat bergabung dengan tim
 
 Can you book X on project Y
 kamu bisa tolong booking X untuk projek Y?
