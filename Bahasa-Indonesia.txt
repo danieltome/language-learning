@@ -237,11 +237,14 @@ slow
 lambat (formal)
 lemot (slang)
 
-done already
-Sudah
+done already. 	//When someone asks you if you have done something.
+sudah
+
+not yet. 		//When someone asks you if you have done something.
+belum
 
 Yes you can 	//When someone asks: Can I do X?. Boleh. Yes you can.
-Boleh
+boleh
 
 sick (as in ill)
 sakit
@@ -278,6 +281,24 @@ Apa dia ada disana?
 
 Is he/she in the office today?
 Apa dia ada di kantor hari ini?
+
+I have eaten [an] apple(s)					//Present perfect
+Saya sudah makan apel
+
+I will have eaten [an] apple(s) tomorrow	//Future perfect
+Saya akan sudah makan apel besok
+
+I will eat [an] apple(s)
+Saya akan makan apel.
+
+Undefinite future, either distant or recent
+Akan or Bakal
+
+Near future
+Nanti 
+
+Distant future
+Kelak 
 
 Days
 ====
