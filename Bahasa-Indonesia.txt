@@ -133,6 +133,23 @@ I'ts ok / No worries.
 tidak apa-apa
 ;or tidak apa2
 
+What is the weather like?
+Baigamana cauca disana?
+
+It's cloudy
+Itu berawan
+
+It's hot
+Itu panas
+
+It's cold
+Itu dingin
+
+Rain (no need to say raining)
+hujan
+
+Today is raining
+hari ini hujan
 
 Work related
 ============
