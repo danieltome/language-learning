@@ -131,7 +131,6 @@ Mantap coy!
 
 I'ts ok / No worries.
 tidak apa-apa
-;or tidak apa2
 
 What is the weather like?
 Baigamana cauca disana?
@@ -150,6 +149,9 @@ hujan
 
 Today is raining
 hari ini hujan
+
+A sunny morning
+pagi yg cerah
 
 Work related
 ============
@@ -179,7 +181,9 @@ Awesome!
 Debes!	//formal: mengagumkan
 
 Cool
+Keren	//Keren and Mantap both mean cool. But keren is related to "style"
 Mantap	//literally means: steady (slang use: the best)
+
 
 How much progress have you made on XXX project?
 berapa persen selesai di project XXX
