@@ -23,6 +23,9 @@ Selamat berakhir pekan juga
 I hope you had a good/fun weekend
 kuharap akhir pekanmu menyenangkan
 
+Feeling better/Already recovered?	//To ask someone who was sick
+sudah sembuh?
+
 good
 bagus / baik
 
@@ -76,6 +79,12 @@ selamat berlibur
 
 Happy birthday
 selamat ulang tahun
+
+Merry Christmas
+Selamat hari Natal
+
+Happy new year
+Selamat tahun baru
 
 
 Common
@@ -152,6 +161,9 @@ hari ini hujan
 
 A sunny morning
 pagi yg cerah
+
+Happy summer
+musim panas yang bahagia
 
 Work related
 ============
