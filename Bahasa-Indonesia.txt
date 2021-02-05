@@ -120,8 +120,8 @@ terima kasih Tuhan itu jumat
 very
 sangat
 
-silahkan
 please
+silahkan
 
 What did you have for lunch?
 tadi kamu makan apa?
@@ -178,13 +178,14 @@ Can you book X on project Y
 kamu bisa tolong booking X untuk projek Y?
 
 Can you join G+ hangout in X min?
-pa kamu bisa gabung di g+ jam in X min?
+apa kamu bisa gabung di g+ jam in X min?
 
 What are you working on?
 Apa yang Anda kerjakan?
 
 Can we do a quick standup?
 bisakah kita standup cepat?	// reply: bisa
+bisa standup sebentar?
 
 Showcase
 menampilkan
@@ -213,7 +214,7 @@ Have you replied my email?
 Kamu sudah balas emailku?
 
 What is ur estimation to fix this ticket/bug? 
-Brp jam untuk tiket/bug ini?
+Berapa jam untuk tiket/bug ini?
 
 Can I ask you a question?
 boleh tanya sedikit?
